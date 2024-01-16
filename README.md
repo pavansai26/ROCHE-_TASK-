@@ -8,7 +8,7 @@
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/pavansai26/.git
+$ https://github.com/pavansai26/ROCHE-_TASK-.git
 $ cd project_folder
 ```
 
